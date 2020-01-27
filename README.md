@@ -1,3 +1,3 @@
 # dive_deeply
-learning and studying deeply.
-only a test file for GH
+- learning and studying deeply
+- only a test file for GH
